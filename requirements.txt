@@ -41,5 +41,5 @@ ipycanvas>=0.9.1
 ipyleaflet
 
 # Python: plotting libraries (optional)
-plotly
+plotly>=5,<6
 bqplot
